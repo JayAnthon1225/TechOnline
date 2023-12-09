@@ -4,7 +4,7 @@
 * - Allows registering and unregistering of event handlers
 * - Injects event object and involved DOM element to listener
 *
-* @author Mark Rolich <mark.rolich@gmail.com>
+* 
 */
 var Event = function () {
     "use strict";

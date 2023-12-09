@@ -13,12 +13,10 @@
 * Magnifier.js uses Event.js as a cross-browser event handling wrapper, which is available at
 * Github and JSClasses.org:
 *
-* Github - https://github.com/mark-rolich/Event.js
-* JS Classes - http://www.jsclasses.org/package/212-JavaScript-Handle-events-in-a-browser-independent-manner.html
 *
 * Works in Chrome, Firefox, Safari, IE 7, 8, 9 & 10.
 *
-* @author Mark Rolich <mark.rolich@gmail.com>
+* 
 */
 var Magnifier = function (evt, options) {
     "use strict";
