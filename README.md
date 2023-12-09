@@ -9,8 +9,8 @@ E-commerce web app project in IT Professional Elective 3. Inspired by our last p
 3. Admin Functions
 4. Ajax Forms
 5. Add products to Cart
-6. Neon Theme :3
-7. And many more.. but mainly those are the important ones
+6. Neon Theme
+7. Hashed passwords
 
 # User guide
 1. Download xampp
