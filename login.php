@@ -26,7 +26,7 @@
           <button type="submit" name="submit" class="btn" style="margin-left: 10px">Login</button>
         </div>
         <div class="row">
-          <span class="white-text">Not yet a member?</span>
+          <span class="white-text">Not a member?</span>
           <a href="signup.php">Sign Up!</a>
           <div class="errormsg">
             <?php
